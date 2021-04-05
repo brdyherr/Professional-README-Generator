@@ -2,7 +2,7 @@
     # README Generator
 
     ## Description
-    Please use this README generator for all of your applications to save time
+    This application allows you to build README files in an easy to use format
 
     ## Table of Contents
     *[Installation](#installation)
@@ -13,19 +13,19 @@
     *[Questions](#questions)
 
     ## Installation
-    Simply clone and use
+    Please download the project to your computer and watch the intructional video to start using it
 
     ## Usage
-    Simply clone and use 
+    Please use for all of your applications to simplify the process of building README files
 
     ## License
-    Apple Public Source License
+    MIT License
     
     ## Contributing
-    Please reach out using my contact information below
+    Please contact me for questions at my email or search for me on GitHub
 
     ## Tests
-    Not applicable
+    N/A
 
     ## Questions
     - If you have any questions, please email me at brdyherrera@gmail.com or see my GitHub at brdyherr

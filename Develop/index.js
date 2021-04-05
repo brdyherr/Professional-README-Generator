@@ -58,6 +58,12 @@ const questions = [
         }
     },
     {
+        type: 'list',
+        name: 'license',
+        message: 'Please choose a License',
+        choices: ['GNU All-permissive License', 'MIT License', 'BSD licenses', 'Apple Public Source License', 'Apache license', 'N/A']
+    },
+    {
         type: 'input',
         name: 'contribution',
         message: 'Please include details on how one can contribute if interested',

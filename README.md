@@ -1,7 +1,7 @@
-# title
+# README Generator
 
 ## Description
-description
+Allow a user to generate a README.md
 <br/>
 ## Table of Contents
 * [Installation](#installation)
@@ -17,19 +17,19 @@ description
 * [Questions](#questions)
 <br/>
 ## Installation 
-  instrution
+  clone repo and run node index.js- follow prompts
 <br/>
 ## Usage
-  provid
+  Use after completing a project
 <br/>
 ## License
-  BSD licenses
+  MIT License
 <br/>
 ## Contributing
-  contribute
+  Reach out to Braudy
 <br/>
 ## Tests
-  test
+  Test
 <br/>
 ## Questions
-  - If you have any questions, please email me at email@email.com or see my GitHub at github<br/>
+  - If you have any questions, please email me at brdyherrera@gmail.com or see my GitHub at brdyherr<br/>

@@ -12,6 +12,9 @@
   },
   "author": "Braudy Herrera",
   "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
   "bugs": {
     "url": "https://github.com/brdyherr/Professional-README-Generator/issues"
   },
